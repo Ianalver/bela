@@ -1,0 +1,107 @@
+.container{
+    position: absolute;
+    margin-left: 50%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container th{
+    text-align: left;
+    font-size: 15px;
+    font-weight:lighter
+}
+.container td{
+    width: 20%;
+    
+}
+.container input{
+    width: 60%;
+    height: 30px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+h3{
+    color: rgba(77, 119, 255, 1);
+}
+p{
+    font-weight:550;
+}
+.container .label{
+    font-size: 5px;
+}
+.container-1{
+    position: absolute;
+   
+}
+.btn{
+    text-align: center;
+}
+.btn1{
+    height: 48px;
+    border-radius: 4px;
+    border: none;
+    background-color: rgba(77, 119, 255, 1);
+    color: white;
+    cursor: pointer;
+}
+.btn2{
+    background-color: rgba(77, 119, 255, 1);
+    height: 50px;
+    width: 40%;
+    
+    border-radius: 4px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.bg{
+    position: absolute;
+    margin-top: 15%;
+}
+.what{
+    position: absolute;
+    margin-top: 56%;
+    margin-left: 8%;
+    text-align: center;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+}
+.already{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 66%;
+}
+.already a{
+    color:rgba(77, 119, 255, 1);
+    text-decoration: none;
+}
+.line1{
+    position: absolute;
+    margin-top: 46%;
+   padding-left: 85%;
+}
+.line2{
+    position: absolute;
+    margin-top: 46%;
+    padding-left: 55%;
+}
+.continue{
+    position: absolute;
+    margin-top: 44.5%;
+    padding-left: 70%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon{
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 70%;
+}
+.checkbox{
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 46%;
+}
+.checkbox a{
+    color:rgba(77, 119, 255, 1);
+    text-decoration: none;
+}
